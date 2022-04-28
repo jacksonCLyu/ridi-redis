@@ -1,0 +1,4 @@
+test:
+  redis:
+    hostStr: "127.0.0.1:6379"
+    dailTimeout: 1500
